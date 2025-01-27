@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,bankofchina.com
 DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,sc.com
 DOMAIN-SUFFIX,lastpass.com
 DOMAIN-SUFFIX,manulife.com.hk
@@ -10,6 +11,7 @@ DOMAIN-SUFFIX,zurich.com.hk
 DOMAIN-KEYWORD,1password
 DOMAIN-KEYWORD,bankofchina
 DOMAIN-KEYWORD,hsbc
+DOMAIN-KEYWORD,interactivebrokers
 DOMAIN-KEYWORD,lastpass
 DOMAIN-KEYWORD,manulife
 DOMAIN-KEYWORD,whatsapp
