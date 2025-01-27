@@ -98,6 +98,7 @@ DOMAIN-SUFFIX,eos.io
 DOMAIN-SUFFIX,eosflare.io
 DOMAIN-SUFFIX,eospark.com
 DOMAIN-SUFFIX,eostracker.io
+DOMAIN-SUFFIX,ethena.fi
 DOMAIN-SUFFIX,ethereum-magicians.org
 DOMAIN-SUFFIX,ethereum.cn
 DOMAIN-SUFFIX,ethereum.foundation
@@ -127,7 +128,9 @@ DOMAIN-SUFFIX,hecoview.com
 DOMAIN-SUFFIX,icodrops.com
 DOMAIN-SUFFIX,intotheblock.com
 DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,ironforge.network
 DOMAIN-SUFFIX,jaxx.io
+DOMAIN-SUFFIX,jup.ag
 DOMAIN-SUFFIX,kamino.finance
 DOMAIN-SUFFIX,keplr.app
 DOMAIN-SUFFIX,korbit.co.kr
@@ -148,6 +151,7 @@ DOMAIN-SUFFIX,mdex.me
 DOMAIN-SUFFIX,mdex.one
 DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,myetherwallet.com
+DOMAIN-SUFFIX,nightly.app
 DOMAIN-SUFFIX,nansen.ai
 DOMAIN-SUFFIX,naviprotocol.io
 DOMAIN-SUFFIX,nftcalendar.io
