@@ -1,7 +1,6 @@
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
-DOMAIN-KEYWORD,ollama
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,db.tt
 DOMAIN-SUFFIX,docs.google.com
@@ -24,7 +23,6 @@ DOMAIN-SUFFIX,getdropbox.com
 DOMAIN-SUFFIX,googledrive.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,ollama.ai
 DOMAIN-SUFFIX,oneclient.sfx.ms
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onedrive.live.com
