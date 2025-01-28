@@ -43,3 +43,5 @@ DOMAIN-SUFFIX,getdropbox.com
 DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com
 # PCloud
 DOMAIN-SUFFIX,pcloud.com
+# Ollama
+DOMAIN-SUFFIX,ollama.ai
