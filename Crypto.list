@@ -121,6 +121,8 @@ DOMAIN-SUFFIX,eos.io
 DOMAIN-SUFFIX,eosflare.io
 DOMAIN-SUFFIX,eospark.com
 DOMAIN-SUFFIX,eostracker.io
+DOMAIN-SUFFIX,mantra.finance
+DOMAIN-SUFFIX,mantra.zone
 DOMAIN-SUFFIX,ethena.fi
 DOMAIN-SUFFIX,ethereum-magicians.org
 DOMAIN-SUFFIX,ethereum.cn
@@ -178,6 +180,7 @@ DOMAIN-SUFFIX,myetherwallet.com
 DOMAIN-SUFFIX,nansen.ai
 DOMAIN-SUFFIX,naviprotocol.io
 DOMAIN-SUFFIX,nftcalendar.io
+DOMAIN-SUFFIX,sanctum.so
 DOMAIN-SUFFIX,nftgo.io
 DOMAIN-SUFFIX,nftscan.com
 DOMAIN-SUFFIX,nightly.app
