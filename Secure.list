@@ -1,5 +1,6 @@
 DOMAIN-KEYWORD,1password
 DOMAIN-KEYWORD,bankofchina
+DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,hsbc
 DOMAIN-KEYWORD,interactivebrokers
 DOMAIN-KEYWORD,lastpass
@@ -9,12 +10,14 @@ DOMAIN-KEYWORD,zurich
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,alipay.hk
 DOMAIN-SUFFIX,bankofchina.com
+DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,fusionbank.com
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,lastpass.com
 DOMAIN-SUFFIX,manulife.com.hk
+DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,sc.com
 DOMAIN-SUFFIX,welab.bank
 DOMAIN-SUFFIX,whatsapp.com
