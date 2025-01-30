@@ -10,6 +10,7 @@ DOMAIN-KEYWORD,huobi
 DOMAIN-KEYWORD,kamino
 DOMAIN-KEYWORD,mantrachain
 DOMAIN-KEYWORD,metamask
+DOMAIN-KEYWORD,navi
 DOMAIN-KEYWORD,naviprotocol
 DOMAIN-KEYWORD,okx
 DOMAIN-SUFFIX,1inch.io
@@ -108,6 +109,7 @@ DOMAIN-SUFFIX,defillama.com
 DOMAIN-SUFFIX,defipulse.com
 DOMAIN-SUFFIX,defirate.com
 DOMAIN-SUFFIX,devcon.org
+DOMAIN-SUFFIX,dexscreener.com
 DOMAIN-SUFFIX,dextools.io
 DOMAIN-SUFFIX,digiconomist.net
 DOMAIN-SUFFIX,docs.lotu.sh
@@ -121,8 +123,6 @@ DOMAIN-SUFFIX,eos.io
 DOMAIN-SUFFIX,eosflare.io
 DOMAIN-SUFFIX,eospark.com
 DOMAIN-SUFFIX,eostracker.io
-DOMAIN-SUFFIX,mantra.finance
-DOMAIN-SUFFIX,mantra.zone
 DOMAIN-SUFFIX,ethena.fi
 DOMAIN-SUFFIX,ethereum-magicians.org
 DOMAIN-SUFFIX,ethereum.cn
@@ -170,17 +170,19 @@ DOMAIN-SUFFIX,localbitcoins.com
 DOMAIN-SUFFIX,localbitcoinschain.com
 DOMAIN-SUFFIX,makerdao.com
 DOMAIN-SUFFIX,makersplace.com
+DOMAIN-SUFFIX,mantra.finance
+DOMAIN-SUFFIX,mantra.zone
 DOMAIN-SUFFIX,masternodes.online
 DOMAIN-SUFFIX,mdex.co
 DOMAIN-SUFFIX,mdex.com
 DOMAIN-SUFFIX,mdex.me
 DOMAIN-SUFFIX,mdex.one
 DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,movepump.com
 DOMAIN-SUFFIX,myetherwallet.com
 DOMAIN-SUFFIX,nansen.ai
 DOMAIN-SUFFIX,naviprotocol.io
 DOMAIN-SUFFIX,nftcalendar.io
-DOMAIN-SUFFIX,sanctum.so
 DOMAIN-SUFFIX,nftgo.io
 DOMAIN-SUFFIX,nftscan.com
 DOMAIN-SUFFIX,nightly.app
@@ -191,6 +193,7 @@ DOMAIN-SUFFIX,okex.org
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,optimism.io
+DOMAIN-SUFFIX,ouxyi.cash
 DOMAIN-SUFFIX,pancakeswap.com
 DOMAIN-SUFFIX,pancakeswap.finance
 DOMAIN-SUFFIX,parity.io
@@ -200,9 +203,12 @@ DOMAIN-SUFFIX,poloniex.com
 DOMAIN-SUFFIX,poly.network
 DOMAIN-SUFFIX,poolin.com
 DOMAIN-SUFFIX,raydium.io
+DOMAIN-SUFFIX,rpcpool.com
+DOMAIN-SUFFIX,sanctum.so
 DOMAIN-SUFFIX,sg.bybit.com
 DOMAIN-SUFFIX,solana.com
 DOMAIN-SUFFIX,stateofthedapps.com
+DOMAIN-SUFFIX,sui.io
 DOMAIN-SUFFIX,sunswap.com
 DOMAIN-SUFFIX,sushi.com
 DOMAIN-SUFFIX,synthetix.io
