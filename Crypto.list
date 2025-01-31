@@ -221,6 +221,7 @@ DOMAIN-SUFFIX,tokenterminal.com
 DOMAIN-SUFFIX,tokenview.com
 DOMAIN-SUFFIX,tradeblock.com
 DOMAIN-SUFFIX,traderjoexyz.com
+DOMAIN-SUFFIX,publicnode.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,tronlink.org
 DOMAIN-SUFFIX,tronscan.org
@@ -229,6 +230,8 @@ DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,vfat.tools
 DOMAIN-SUFFIX,viewbase.com
 DOMAIN-SUFFIX,vitalik.ca
+DOMAIN-SUFFIX,pryzm.zone
+DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,watchtheburn.com
 DOMAIN-SUFFIX,wbtc.network
 DOMAIN-SUFFIX,www.bybit.com
