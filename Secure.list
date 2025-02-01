@@ -1,22 +1,14 @@
-DOMAIN-SUFFIX,manulife.com.hk
-DOMAIN-SUFFIX,zurich.com.hk
-
-# Interactive Brokers
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,ibllc.com
 DOMAIN-SUFFIX,interactivebrokers.com
-
-# Communication
-DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,lastpass.com
+DOMAIN-SUFFIX,m.hotmail.com
+DOMAIN-SUFFIX,manulife.com.hk
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
-
-# Password
-DOMAIN-SUFFIX,1password.com
-DOMAIN-SUFFIX,lastpass.com
-
-# Mail
-DOMAIN-SUFFIX,m.hotmail.com
+DOMAIN-SUFFIX,zurich.com.hk
 DOMAIN,apple.imap.mail.yahoo.com
 DOMAIN,apple.smtp.mail.yahoo.com
 DOMAIN,imap-mail.outlook.com
