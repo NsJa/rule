@@ -188,6 +188,7 @@ DOMAIN-SUFFIX,nftscan.com
 DOMAIN-SUFFIX,nightly.app
 DOMAIN-SUFFIX,nonfungible.com
 DOMAIN-SUFFIX,nyctale.io
+DOMAIN-SUFFIX,okcoin.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okex.org
 DOMAIN-SUFFIX,oklink.com
@@ -202,6 +203,8 @@ DOMAIN-SUFFIX,phantom.app
 DOMAIN-SUFFIX,poloniex.com
 DOMAIN-SUFFIX,poly.network
 DOMAIN-SUFFIX,poolin.com
+DOMAIN-SUFFIX,pryzm.zone
+DOMAIN-SUFFIX,publicnode.com
 DOMAIN-SUFFIX,raydium.io
 DOMAIN-SUFFIX,rpcpool.com
 DOMAIN-SUFFIX,sanctum.so
@@ -221,7 +224,6 @@ DOMAIN-SUFFIX,tokenterminal.com
 DOMAIN-SUFFIX,tokenview.com
 DOMAIN-SUFFIX,tradeblock.com
 DOMAIN-SUFFIX,traderjoexyz.com
-DOMAIN-SUFFIX,publicnode.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,tronlink.org
 DOMAIN-SUFFIX,tronscan.org
@@ -230,7 +232,6 @@ DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,vfat.tools
 DOMAIN-SUFFIX,viewbase.com
 DOMAIN-SUFFIX,vitalik.ca
-DOMAIN-SUFFIX,pryzm.zone
 DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,watchtheburn.com
 DOMAIN-SUFFIX,wbtc.network

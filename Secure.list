@@ -1,8 +1,10 @@
-DOMAIN-SUFFIX,ibkr.com
-DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,manulife.com.hk
-DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,zurich.com.hk
+
+# Interactive Brokers
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,ibllc.com
+DOMAIN-SUFFIX,interactivebrokers.com
 
 # Communication
 DOMAIN-SUFFIX,discord.com
