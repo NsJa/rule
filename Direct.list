@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,aliexpress.com
 DOMAIN-SUFFIX,aliimg.com
 DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipay.hk
 DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,alisoft.com
 DOMAIN-SUFFIX,aliyun.com
@@ -332,7 +333,13 @@ DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
 
-
+# Banking
+DOMAIN-SUFFIX,bankofchina.com
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,sc.com
+DOMAIN-SUFFIX,welab.bank
+DOMAIN-SUFFIX,fusionbank.com
+DOMAIN-SUFFIX,antbank.hk
 
 # AccelerateDirectSites
 DOMAIN-SUFFIX,10010.com
