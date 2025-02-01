@@ -4,17 +4,7 @@ DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,ibllc.com
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,lastpass.com
-DOMAIN-SUFFIX,m.hotmail.com
 DOMAIN-SUFFIX,manulife.com.hk
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,zurich.com.hk
-DOMAIN,apple.imap.mail.yahoo.com
-DOMAIN,apple.smtp.mail.yahoo.com
-DOMAIN,imap-mail.outlook.com
-DOMAIN,imap.gmail.com
-DOMAIN,outlook.office365.com
-DOMAIN,pop.gmail.com
-DOMAIN,smtp-mail.outlook.com
-DOMAIN,smtp.gmail.com
-DOMAIN,smtp.office365.com
