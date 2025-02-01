@@ -1,9 +1,8 @@
-
+# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Crypto/Crypto.list
+# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Cryptocurrency/Cryptocurrency.list
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,bitverse
 DOMAIN-KEYWORD,byapps
-DOMAIN-KEYWORD,byb
-DOMAIN-KEYWORD,bybdc
 DOMAIN-KEYWORD,bybit
 DOMAIN-KEYWORD,bycsi
 DOMAIN-KEYWORD,huobi
@@ -27,6 +26,8 @@ DOMAIN-SUFFIX,asproex.com
 DOMAIN-SUFFIX,asproexapi.com
 DOMAIN-SUFFIX,avax.network
 DOMAIN-SUFFIX,bibox.com
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,bisq.io
 DOMAIN-SUFFIX,bisq.network
 DOMAIN-SUFFIX,bitbank.cc
@@ -150,6 +151,7 @@ DOMAIN-SUFFIX,hbfile.net
 DOMAIN-SUFFIX,heco-scan.com
 DOMAIN-SUFFIX,hecochain.com
 DOMAIN-SUFFIX,hecoview.com
+DOMAIN-SUFFIX,huobi.com
 DOMAIN-SUFFIX,icodrops.com
 DOMAIN-SUFFIX,inapps.appsflyer.com
 DOMAIN-SUFFIX,intotheblock.com
@@ -192,6 +194,7 @@ DOMAIN-SUFFIX,okcoin.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okex.org
 DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,optimism.io
 DOMAIN-SUFFIX,ouxyi.cash
@@ -242,6 +245,7 @@ DOMAIN-SUFFIX,zb.io
 DOMAIN-SUFFIX,zb.live
 DOMAIN-SUFFIX,zkscan.io
 DOMAIN-SUFFIX,zksync.io
+DOMAIN,app.elys.network
 DOMAIN,token-api.metaswap.codefi.network
 PROCESS-NAME,Binance.exe
 PROCESS-NAME,Huobi.exe
