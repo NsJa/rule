@@ -158,6 +158,7 @@ DOMAIN-SUFFIX,intotheblock.com
 DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,ironforge.network
 DOMAIN-SUFFIX,jaxx.io
+DOMAIN-SUFFIX,jito.network
 DOMAIN-SUFFIX,jup.ag
 DOMAIN-SUFFIX,kamino.finance
 DOMAIN-SUFFIX,keplr.app
@@ -213,6 +214,7 @@ DOMAIN-SUFFIX,rpcpool.com
 DOMAIN-SUFFIX,sanctum.so
 DOMAIN-SUFFIX,sg.bybit.com
 DOMAIN-SUFFIX,solana.com
+DOMAIN-SUFFIX,solana.fm
 DOMAIN-SUFFIX,stateofthedapps.com
 DOMAIN-SUFFIX,sui.io
 DOMAIN-SUFFIX,sunswap.com
@@ -221,6 +223,7 @@ DOMAIN-SUFFIX,synthetix.io
 DOMAIN-SUFFIX,tether.to
 DOMAIN-SUFFIX,thegraph.com
 DOMAIN-SUFFIX,thetie.io
+DOMAIN-SUFFIX,tiplink.io
 DOMAIN-SUFFIX,token.im
 DOMAIN-SUFFIX,tokenpocket.pro
 DOMAIN-SUFFIX,tokenterminal.com
@@ -238,6 +241,7 @@ DOMAIN-SUFFIX,vitalik.ca
 DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,watchtheburn.com
 DOMAIN-SUFFIX,wbtc.network
+DOMAIN-SUFFIX,web3modal.org
 DOMAIN-SUFFIX,www.bybit.com
 DOMAIN-SUFFIX,zb.app
 DOMAIN-SUFFIX,zb.com
