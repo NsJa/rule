@@ -1,3 +1,10 @@
+DOMAIN-SUFFIX,copymanga.tv
+DOMAIN-SUFFIX,komiic.com
+DOMAIN-SUFFIX,hath.network
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,wnacg.com
+
 DOMAIN-KEYWORD,interactivebrokers
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,discord.com
@@ -16,9 +23,3 @@ DOMAIN,imap-mail.outlook.com
 DOMAIN,smtp-mail.outlook.com
 DOMAIN,outlook.office365.com
 DOMAIN,smtp.office365.com
-
-DOMAIN-SUFFIX,hath.network
-DOMAIN-SUFFIX,exhentai.org
-DOMAIN-SUFFIX,e-hentai.org
-DOMAIN-SUFFIX,wnacg.com
-DOMAIN-SUFFIX,copymanga.tv
