@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,komiic.com
 DOMAIN-SUFFIX,lastpass.com
 DOMAIN-SUFFIX,mangafuna.xyz
 DOMAIN-SUFFIX,manulife.com.hk
-DOMAIN-SUFFIX,spwn.jp
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,wnacg.com
@@ -24,3 +23,10 @@ DOMAIN,pop.gmail.com
 DOMAIN,smtp-mail.outlook.com
 DOMAIN,smtp.gmail.com
 DOMAIN,smtp.office365.com
+
+# SPWN
+DOMAIN,spwn.jp
+DOMAIN,public.spwn.jp
+DOMAIN,public-web.spwn.jp
+DOMAIN,us-central1-spwn-balus.cloudfunctions.net
+DOMAIN,asia-northeast1-spwn-balus.cloudfunctions.net
