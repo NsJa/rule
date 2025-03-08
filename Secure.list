@@ -23,10 +23,3 @@ DOMAIN,pop.gmail.com
 DOMAIN,smtp-mail.outlook.com
 DOMAIN,smtp.gmail.com
 DOMAIN,smtp.office365.com
-
-# SPWN
-DOMAIN,spwn.jp
-DOMAIN,public.spwn.jp
-DOMAIN,public-web.spwn.jp
-DOMAIN,us-central1-spwn-balus.cloudfunctions.net
-DOMAIN,asia-northeast1-spwn-balus.cloudfunctions.net
