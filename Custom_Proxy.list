@@ -5,12 +5,8 @@ DOMAIN-SUFFIX,warp.dev
 
 # Manga
 DOMAIN-SUFFIX,copymanga.tv
-DOMAIN-SUFFIX,e-hentai.org
-DOMAIN-SUFFIX,exhentai.org
-DOMAIN-SUFFIX,hath.network
 DOMAIN-SUFFIX,komiic.com
 DOMAIN-SUFFIX,mangafuna.xyz
-DOMAIN-SUFFIX,wnacg.com
 
 # CloudFlare DNS
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
