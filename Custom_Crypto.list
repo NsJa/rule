@@ -1,14 +1,8 @@
-# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Crypto/Crypto.list
-# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Cryptocurrency/Cryptocurrency.list
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,bitverse
-DOMAIN-KEYWORD,byapps
-DOMAIN-KEYWORD,bybit
-DOMAIN-KEYWORD,bycsi
 DOMAIN-KEYWORD,huobi
 DOMAIN-KEYWORD,kamino
 DOMAIN-KEYWORD,mantrachain
-DOMAIN-KEYWORD,metamask
 DOMAIN-KEYWORD,navi
 DOMAIN-KEYWORD,naviprotocol
 DOMAIN-KEYWORD,okx
@@ -160,7 +154,6 @@ DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,ironforge.network
 DOMAIN-SUFFIX,jaxx.io
 DOMAIN-SUFFIX,jito.network
-DOMAIN-SUFFIX,jup.ag
 DOMAIN-SUFFIX,kamino.finance
 DOMAIN-SUFFIX,keplr.app
 DOMAIN-SUFFIX,korbit.co.kr
@@ -205,7 +198,6 @@ DOMAIN-SUFFIX,pancakeswap.com
 DOMAIN-SUFFIX,pancakeswap.finance
 DOMAIN-SUFFIX,parity.io
 DOMAIN-SUFFIX,paxful.com
-DOMAIN-SUFFIX,phantom.app
 DOMAIN-SUFFIX,poloniex.com
 DOMAIN-SUFFIX,poly.network
 DOMAIN-SUFFIX,poolin.com
@@ -244,7 +236,6 @@ DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,watchtheburn.com
 DOMAIN-SUFFIX,wbtc.network
 DOMAIN-SUFFIX,web3modal.org
-DOMAIN-SUFFIX,www.bybit.com
 DOMAIN-SUFFIX,zb.app
 DOMAIN-SUFFIX,zb.com
 DOMAIN-SUFFIX,zb.io
@@ -256,3 +247,18 @@ DOMAIN,token-api.metaswap.codefi.network
 PROCESS-NAME,Binance.exe
 PROCESS-NAME,Huobi.exe
 PROCESS-NAME,OKX.exe
+
+# Bybit
+DOMAIN-KEYWORD,byapps
+DOMAIN-KEYWORD,bybit
+DOMAIN-KEYWORD,bycsi
+DOMAIN-SUFFIX,www.bybit.com
+
+# Jupiter
+DOMAIN-SUFFIX,jup.ag
+
+# Phantom
+DOMAIN-SUFFIX,phantom.app
+
+# MetaMask
+DOMAIN-SUFFIX,metamask.io
