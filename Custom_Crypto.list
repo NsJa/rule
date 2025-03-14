@@ -1,6 +1,7 @@
 # With https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Crypto/Crypto.list
 
 # Misc
+DOMAIN-SUFFIX,cytonic.com
 DOMAIN-SUFFIX,okcoin.com
 DOMAIN-SUFFIX,ouxyi.cash
 DOMAIN-SUFFIX,pryzm.zone
