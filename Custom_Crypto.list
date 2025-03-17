@@ -6,8 +6,12 @@ DOMAIN-SUFFIX,okcoin.com
 DOMAIN-SUFFIX,ouxyi.cash
 DOMAIN-SUFFIX,pryzm.zone
 DOMAIN-SUFFIX,publicnode.com
-DOMAIN-SUFFIX,sky.money
 DOMAIN,app.elys.network
+DOMAIN,app.sky.money
+DOMAIN,eth-mainnet.g.alchemy.com
+DOMAIN,info-sky.blockanalitica.com
+DOMAIN,query-subgraph.sky.money
+DOMAIN,safe-transaction-mainnet.safe.global
 
 # Chain:Solana
 DOMAIN-SUFFIX,ironforge.network
@@ -69,5 +73,5 @@ DOMAIN-SUFFIX,morpho.org
 DOMAIN-SUFFIX,keplr.app
 DOMAIN-SUFFIX,nightly.app
 DOMAIN-SUFFIX,tiplink.io
-DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,web3modal.org
+DOMAIN,explorer-api.walletconnect.com
