@@ -39,7 +39,9 @@ DOMAIN-SUFFIX,sui.io
 DOMAIN-SUFFIX,tiplink.io
 DOMAIN-SUFFIX,web3modal.org
 DOMAIN,app.elys.network
+DOMAIN,base-mainnet.g.alchemy.com
 DOMAIN,eth-mainnet.g.alchemy.com
 DOMAIN,explorer-api.walletconnect.com
 DOMAIN,info-sky.blockanalitica.com
+DOMAIN,pulse.walletconnect.org
 DOMAIN,safe-transaction-mainnet.safe.global
