@@ -1,34 +1,9 @@
-# With https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Crypto/Crypto.list
-
-# Misc
-DOMAIN-SUFFIX,cytonic.com
-DOMAIN-SUFFIX,okcoin.com
-DOMAIN-SUFFIX,ouxyi.cash
-DOMAIN-SUFFIX,pryzm.zone
-DOMAIN-SUFFIX,publicnode.com
-DOMAIN-SUFFIX,sky.money
-DOMAIN,app.elys.network
-DOMAIN,eth-mainnet.g.alchemy.com
-DOMAIN,info-sky.blockanalitica.com
-DOMAIN,safe-transaction-mainnet.safe.global
-
-# Chain:Solana
-DOMAIN-SUFFIX,ironforge.network
-DOMAIN-SUFFIX,rpcpool.com
-DOMAIN-SUFFIX,solana.fm
-
-# Chain:SUI
-DOMAIN-SUFFIX,sui.io
-DOMAIN-SUFFIX,movepump.com
-
-# Chain:Mantra
-DOMAIN-KEYWORD,mantrachain
-DOMAIN-SUFFIX,mantra.finance
-DOMAIN-SUFFIX,mantra.zone
-
-# Bybit
+DOMAIN-KEYWORD,bitverse
 DOMAIN-KEYWORD,byapps
 DOMAIN-KEYWORD,bycsi
+DOMAIN-KEYWORD,mantrachain
+DOMAIN-KEYWORD,navi
+DOMAIN-KEYWORD,naviprotocol
 DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,byapps.net
 DOMAIN-SUFFIX,bybdc6.com
@@ -38,39 +13,33 @@ DOMAIN-SUFFIX,bybit.cloud
 DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,byd3c3.com
-
-# OKX
-DOMAIN-SUFFIX,okex.org
-
-# bitverse
-DOMAIN-KEYWORD,bitverse
-
-# Jupiter
-DOMAIN-SUFFIX,jup.ag
-
-# Sanctum
-DOMAIN-SUFFIX,sanctum.so
-
-# Kamino
-DOMAIN-SUFFIX,kamino.finance
-
-# Navi
-DOMAIN-KEYWORD,navi
-DOMAIN-KEYWORD,naviprotocol
-DOMAIN-SUFFIX,naviprotocol.io
-
-# Cetus Zone
 DOMAIN-SUFFIX,cetus.zone
-
-# Jito
+DOMAIN-SUFFIX,cytonic.com
+DOMAIN-SUFFIX,ironforge.network
 DOMAIN-SUFFIX,jito.network
-
-# Morpho
-DOMAIN-SUFFIX,morpho.org
-
-# Wallet
+DOMAIN-SUFFIX,jup.ag
+DOMAIN-SUFFIX,kamino.finance
 DOMAIN-SUFFIX,keplr.app
+DOMAIN-SUFFIX,mantra.finance
+DOMAIN-SUFFIX,mantra.zone
+DOMAIN-SUFFIX,morpho.org
+DOMAIN-SUFFIX,movepump.com
+DOMAIN-SUFFIX,naviprotocol.io
 DOMAIN-SUFFIX,nightly.app
+DOMAIN-SUFFIX,okcoin.com
+DOMAIN-SUFFIX,okex.org
+DOMAIN-SUFFIX,ouxyi.cash
+DOMAIN-SUFFIX,pryzm.zone
+DOMAIN-SUFFIX,publicnode.com
+DOMAIN-SUFFIX,rpcpool.com
+DOMAIN-SUFFIX,sanctum.so
+DOMAIN-SUFFIX,sky.money
+DOMAIN-SUFFIX,solana.fm
+DOMAIN-SUFFIX,sui.io
 DOMAIN-SUFFIX,tiplink.io
 DOMAIN-SUFFIX,web3modal.org
+DOMAIN,app.elys.network
+DOMAIN,eth-mainnet.g.alchemy.com
 DOMAIN,explorer-api.walletconnect.com
+DOMAIN,info-sky.blockanalitica.com
+DOMAIN,safe-transaction-mainnet.safe.global
