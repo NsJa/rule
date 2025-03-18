@@ -1,5 +1,7 @@
 DOMAIN-KEYWORD,interactivebrokers
 DOMAIN-KEYWORD,shopify
+DOMAIN-KEYWORD,sms-activate
+DOMAIN-KEYWORD,smsactivate
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,altstore.io
 DOMAIN-SUFFIX,forbooks.jp
@@ -13,3 +15,4 @@ DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,zurich.com.hk
 DOMAIN,api.ipify.org
+DOMAIN,api.redotpay.com
